@@ -1,0 +1,9 @@
+# --- IntelliJ IDEA ---
+.idea/
+*.iml
+out/
+target/
+
+# --- Sistema operativo ---
+.DS_Store
+Thumbs.db
