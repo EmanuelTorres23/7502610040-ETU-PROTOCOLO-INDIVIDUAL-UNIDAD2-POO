@@ -29,5 +29,4 @@ public class Ejercicio3_PruebaClasePrivate {
       consultar o modificar ese dato de forma controlada, la falta de estos métodos
       lo impedirá por completo, haciendo que la clase sea rígida y poco funcional.
 */
-    }
-}
+
