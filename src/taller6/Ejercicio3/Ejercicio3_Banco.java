@@ -1,4 +1,4 @@
-package taller6;
+package taller6.Ejercicio3;
 
 public class Ejercicio3_Banco {
     protected double saldo;

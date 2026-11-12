@@ -1,4 +1,4 @@
-package taller4;
+package taller4.Ejercicio3;
 
 public class Ejercicio3_PruebaClasePrivate {
     public static void main(String[] args) {

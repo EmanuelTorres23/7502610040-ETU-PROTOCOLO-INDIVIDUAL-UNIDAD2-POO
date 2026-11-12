@@ -1,4 +1,4 @@
-package taller6;
+package taller6.Ejercicio1;
 
 public class Ejercicio1_Gerente extends Ejercicio1_Empleado {
     protected String departamento;

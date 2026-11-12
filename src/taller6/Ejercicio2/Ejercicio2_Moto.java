@@ -1,4 +1,4 @@
-package taller6;
+package taller6.Ejercicio2;
 
 public class Ejercicio2_Moto extends Ejercicio2_Vehiculo {
     protected int cilindrada;

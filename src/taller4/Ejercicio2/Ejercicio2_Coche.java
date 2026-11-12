@@ -1,4 +1,4 @@
-package taller4;
+package taller4.Ejercicio2;
 
 public class Ejercicio2_Coche {
     private String marca;

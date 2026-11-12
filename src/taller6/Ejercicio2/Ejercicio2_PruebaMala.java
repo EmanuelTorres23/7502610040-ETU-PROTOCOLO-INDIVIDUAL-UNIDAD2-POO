@@ -1,6 +1,6 @@
 //package taller6.externo;
 
-//import taller6.Ejercicio2_Vehiculo;
+//import taller6.Ejercicio2.Ejercicio2_Vehiculo;
 
 //public class Ejercicio2_PruebaMala {
     //public static void main(String[] args) {
